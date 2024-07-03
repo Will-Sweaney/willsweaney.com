@@ -26,7 +26,8 @@ export default defineConfig({
             { text: 'Runtime API Examples', link: '/api-examples' }
           ]
         }
-      ],
+      ]
+    },
 
     socialLinks: [
       { icon: 'github', link: 'temp1' }
